@@ -11,31 +11,31 @@ Analyze sales transactions across time, store locations, and product categories 
 
 🧰 Tools & Technologies
 -----------------------
-- 🗄️ Database: PostgreSQL
-- 📈 Data Visualization: Power BI
-- 💻 Query Language: SQL
-- 📁 Dataset: Coffee Shop Sales Data (.csv)
+-  Database: PostgreSQL
+-  Data Visualization: Power BI
+-  Query Language: SQL
+-  Dataset: Coffee Shop Sales Data (.csv)
 
 📌 Key Features
 ---------------
-- ✅ Interactive Dashboard showcasing KPIs: Total Sales, Orders, and Quantity Sold
-- 📅 Time-based analyses: Monthly growth, daily trends, peak sales hours
-- 📍 Performance comparison across store locations
-- ☕ Product category and product type trend insights
+- Interactive Dashboard showcasing KPIs: Total Sales, Orders, and Quantity Sold
+- Time-based analyses: Monthly growth, daily trends, peak sales hours
+- Performance comparison across store locations
+- Product category and product type trend insights
 
 🧾 SQL Analysis Highlights
 --------------------------
 📏 Key Performance Indicators (KPIs):
-- 💰 Total Sales
-- 🛒 Total Orders
-- 📦 Total Quantity Sold
+💰 Total Sales
+🛒 Total Orders
+📦 Total Quantity Sold
 
 📈 Trend Analyses:
-- 📅 Month-over-Month (MoM) Growth
-- 📊 Weekday vs Weekend Sales Patterns
-- ⏰ Peak Hour Sales Analysis
-- 🔝 Top 10 Product Types by Sales
-- 📍 Store Location Performance
+- Month-over-Month (MoM) Growth
+- Weekday vs Weekend Sales Patterns
+- Peak Hour Sales Analysis
+- Top 10 Product Types by Sales
+- Store Location Performance
 
 📝 Sample SQL Query: Sales by Location for June
 -----------------------------------------------
@@ -52,12 +52,12 @@ ORDER BY total_sales DESC;
 
 🚀 How to Use
 -------------
-1. 📥 Clone this repository
-2. 🗄️ Load the dataset into your PostgreSQL database
-3. 💻 Run the SQL queries to generate insights
-4. 📊 Open the Power BI `.pbix` file
-5. 🔗 Connect Power BI to your PostgreSQL database (if applicable)
-6. 👀 Explore the interactive dashboard and visualizations
+1. Clone this repository
+2. Load the dataset into your PostgreSQL database
+3. Run the SQL queries to generate insights
+4. Open the Power BI `.pbix` file
+5. Connect Power BI to your PostgreSQL database (if applicable)
+6. Explore the interactive dashboard and visualizations
 
 📂 Repository Structure
 -----------------------
